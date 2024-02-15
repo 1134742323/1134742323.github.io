@@ -13,7 +13,7 @@ name                     : &name "Zihan LIU"
 description              : &description "personal description"
 url                      : https://1134742323.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "1134742323/1134742323.github.io"
 
 # Site Author
 author:

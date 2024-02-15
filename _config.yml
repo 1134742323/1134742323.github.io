@@ -22,15 +22,15 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   pronouns         : # example: "she/her"
   location         : "Location"
-  orcid            : "http://orcid.org/yourorcidurl"
-  employer         :
-  email            :  
+  orcid            : "http://orcid.org/0000-0001-7147-7218"
+  employer         : 
+  email            : zihanliu@connect.hku.hk
   uri              :
 
   # Manuscript repositories
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"         # Update with the correct link to your profile
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Zihan-Liu-7" # example: "https://www.researchgate.net/profile/yourprofile"
 
   # Social media
   bitbucket        :

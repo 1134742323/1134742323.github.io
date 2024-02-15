@@ -17,11 +17,11 @@ repository               : "academicpages/academicpages.github.io"
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Zihan (Zeon) LIU"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. candidate"
   pronouns         : # example: "she/her"
-  location         : "Location"
+  location         : "Hong Kong SAR"
   orcid            : "http://orcid.org/0000-0001-7147-7218"
   employer         : 
   email            : zihanliu@connect.hku.hk
@@ -48,14 +48,14 @@ author:
   lastfm           :
   linkedin         :
   kaggle           : # "kaggleusername"
-  mastodon         : "mastodonhandle"
+  mastodon         : #"mastodonhandle"
   medium           : # "add medium profile url here"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   wikipedia        :

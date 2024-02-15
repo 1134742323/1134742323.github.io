@@ -8,6 +8,8 @@ redirect_from:
 ---
 Education
 ======
+Aug. 2022 — Now: Ph.D. in Rock Mechanics @The University of Hong Kong
+
 Sept. 2019 — April 2022: M.Phil. in Civil Engineering @Shanghai Jiao Tong University
 
 Sept. 2015 — June 2019: B.Sc. in Civil Engineering @China University of Geosciences

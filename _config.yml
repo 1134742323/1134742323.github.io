@@ -19,14 +19,12 @@ repository               : "1134742323/1134742323.github.io"
 author:
   name             : "Zihan (Zeon) LIU"
   avatar           : "avatar.jpg"
-  bio              : "Ph.D. candidate  
-    Department of Earth Sciences, The University of Hong Kong  
-    Room 207, James Lee Science Building"
+  bio              : "Ph.D. candidate"
   pronouns         : # example: "she/her"
   location         : "Hong Kong SAR"
   orcid            : "http://orcid.org/0000-0001-7147-7218"
   employer         : 
-  email            : zihanliu@connect.hku.hk
+  email            : "zihanliu@connect.hku.hk" zihanliu@connect.hku.hk
   uri              :
 
   # Manuscript repositories

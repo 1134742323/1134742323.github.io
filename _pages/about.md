@@ -23,7 +23,7 @@ Education
 Peer Reviewer For
 ======
 * Rock Mechanics and Rock Engineering
-* Bulletin Of Engineering Geology And The Environment
+* Bulletin of Engineering Geology and the Environment
 * Frontiers in Earth Science
 * Deep Underground Science and Engineering
 

@@ -20,15 +20,8 @@ Education
 * Aug. 2022 — Now: Ph.D. candidate in Rock Mechanics <img src="/images/HKU.jpg" width="40%" height="auto">
 
 * Sept. 2019 — April 2022: M.Phil. in Civil Engineering <img src="/images/SJTU.jpg" width="30%" height="auto">
-@**Shanghai Jiao Tong University**
-<center>
-    <img src="/images/SJTU.jpg" width="30%" height="auto">
-</center>
+
 * Sept. 2015 — June 2019: B.Eng. in Civil Engineering <img src="/images/CUG.jpg" width="30%" height="auto">
-@**China University of Geosciences**
-<center>
-    <img src="/images/CUG.jpg" width="30%" height="auto">
-</center>
 
 Peer Reviewer for
 ======

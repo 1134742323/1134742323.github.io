@@ -18,10 +18,7 @@ Research Interests
 Education
 ======
 * Aug. 2022 — Now: Ph.D. candidate in Rock Mechanics <img src="/images/HKU.jpg" width="40%" height="auto">
-* @**The University of Hong Kong** 
-<center>
-    <img src="/images/HKU.jpg" width="40%" height="auto">
-</center>
+
 * Sept. 2019 — April 2022: M.Phil. in Civil Engineering <img src="/images/SJTU.jpg" width="30%" height="auto">
 @**Shanghai Jiao Tong University**
 <center>

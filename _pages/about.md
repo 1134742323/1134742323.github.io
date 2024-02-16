@@ -8,7 +8,7 @@ redirect_from:
 ---
 About Me
 ======
-I am LIU Zihan (<img src="/images/Chinese name.png" width="40%" height="auto">), a second-year Ph.D. candidate @ [Department of Earth Sciences](https://www.earthsciences.hku.hk/people/research-postgraduate-students), The University of Hong Kong (HKU). 
+I am LIU Zihan (<img src="/images/Chinese name.png" width="10%" height="auto">), a second-year Ph.D. candidate @ [Department of Earth Sciences](https://www.earthsciences.hku.hk/people/research-postgraduate-students), The University of Hong Kong (HKU). 
 
 Research Interests
 ======

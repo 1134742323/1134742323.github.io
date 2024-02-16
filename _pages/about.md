@@ -17,20 +17,23 @@ Research Interests
 
 Education
 ======
-* Aug. 2022 — Now: Ph.D. candidate in Rock Mechanics @**The University of Hong Kong** 
+* Aug. 2022 — Now: Ph.D. candidate in Rock Mechanics <img src="/images/HKU.jpg" width="40%" height="auto">
+* @**The University of Hong Kong** 
 <center>
     <img src="/images/HKU.jpg" width="40%" height="auto">
 </center>
-* Sept. 2019 — April 2022: M.Phil. in Civil Engineering @**Shanghai Jiao Tong University**
+* Sept. 2019 — April 2022: M.Phil. in Civil Engineering <img src="/images/SJTU.jpg" width="30%" height="auto">
+@**Shanghai Jiao Tong University**
 <center>
     <img src="/images/SJTU.jpg" width="30%" height="auto">
 </center>
-* Sept. 2015 — June 2019: B.Eng. in Civil Engineering @**China University of Geosciences**
+* Sept. 2015 — June 2019: B.Eng. in Civil Engineering <img src="/images/CUG.jpg" width="30%" height="auto">
+@**China University of Geosciences**
 <center>
     <img src="/images/CUG.jpg" width="30%" height="auto">
 </center>
 
-Peer Reviewer For
+Peer Reviewer for
 ======
 * *Rock Mechanics and Rock Engineering*
 * *Bulletin of Engineering Geology and the Environment*

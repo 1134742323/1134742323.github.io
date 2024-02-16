@@ -22,7 +22,9 @@ Education
     <img src="/images/HKU.jpg" width="20%" height="auto">
 </center>
 * Sept. 2019 — April 2022: M.Phil. in Civil Engineering @**Shanghai Jiao Tong University**
-
+<center>
+    <img src="/images/SJTU.jpg" width="20%" height="auto">
+</center>
 * Sept. 2015 — June 2019: B.Sc. in Civil Engineering @**China University of Geosciences**
 
 Peer Reviewer For

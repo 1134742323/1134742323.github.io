@@ -19,13 +19,13 @@ Education
 ======
 * Aug. 2022 — Now: Ph.D. candidate in Rock Mechanics @**The University of Hong Kong** 
 <center>
-    <img src="/images/HKU.jpg" width="30%" height="auto">
+    <img src="/images/HKU.jpg" width="40%" height="auto">
 </center>
 * Sept. 2019 — April 2022: M.Phil. in Civil Engineering @**Shanghai Jiao Tong University**
 <center>
     <img src="/images/SJTU.jpg" width="30%" height="auto">
 </center>
-* Sept. 2015 — June 2019: B.Sc. in Civil Engineering @**China University of Geosciences**
+* Sept. 2015 — June 2019: B.Eng. in Civil Engineering @**China University of Geosciences**
 <center>
     <img src="/images/CUG.jpg" width="30%" height="auto">
 </center>

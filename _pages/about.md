@@ -8,7 +8,7 @@ redirect_from:
 ---
 About Me
 ======
-I am a second-year Ph.D. candidate in [Department of Earth Sciences](https://www.earthsciences.hku.hk/people/research-postgraduate-students), The University of Hong Kong (HKU). 
+I am a second-year Ph.D. candidate @ [Department of Earth Sciences](https://www.earthsciences.hku.hk/people/research-postgraduate-students), The University of Hong Kong (HKU). 
 
 Research Interests
 ======

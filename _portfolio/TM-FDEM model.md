@@ -14,6 +14,7 @@ tags:
       [Download paper here](https://doi.org/10.1016/j.jrmge.2023.12.005)
     </p>
 </div>
+[Download paper here](https://doi.org/10.1016/j.jrmge.2023.12.005)
 
 Headings are cool
 ======

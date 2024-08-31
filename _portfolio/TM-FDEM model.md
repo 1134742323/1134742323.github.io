@@ -3,9 +3,7 @@ title: 'A new thermomechanical coupled FDEM model for geomaterials considering c
 date: 2024-01-01
 permalink: /posts/2023/08/blog-post-1/
 tags:
-  - cool posts
-  - category1
-  - category2
+
 ---
 [Download paper here](https://doi.org/10.1016/j.jrmge.2023.12.005)
 <div style="display: flex; align-items: center;">

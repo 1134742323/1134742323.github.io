@@ -1,6 +1,6 @@
 ---
-title: 'Zihan Liu won the championship in Young Persons Lecture Competition (Hong Kong heat) 2023'
-date: 2023-08-17
+title: 'A new thermomechanical coupled FDEM model for geomaterials considering continuum-discontinuum transitions'
+date: 2024-01-01
 permalink: /posts/2023/08/blog-post-1/
 tags:
   - cool posts

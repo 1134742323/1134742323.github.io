@@ -8,7 +8,7 @@ tags:
   - category2
 ---
 <div style="display: flex; align-items: center;">
-    <img src="/images/YPLCwinner.jpg" alt="描述文字" width="30%"  style="margin-right: 10px;">
+    <img src="/images/TM-FDEM空心圆柱开裂.gif" alt="描述文字" width="30%"  style="margin-right: 10px;">
     <p>
         The Young Persons’ World Lecture Competition (YPWLC) covers the entire range of materials production and use, from the raw materials in the ground, through extraction, processing, research, manufacturing and final use. Young Scientists and Engineers in the fields of Materials, Minerals, Mining, Packaging, Clay Technology and Wood Science, Science and Engineering are highly encouraged to participate in the competition. 
     </p>

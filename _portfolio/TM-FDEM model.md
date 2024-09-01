@@ -1,7 +1,7 @@
 ---
 title: 'A new thermomechanical coupled FDEM model for geomaterials considering continuum-discontinuum transitions'
 date: 2024-01-01
-permalink: /portfolio/2023/08/blog-post-1/
+permalink: /portfolio/2023/08/TM-FDEM model/
 tags:
 
 ---

@@ -5,8 +5,15 @@ permalink: /portfolio/2023/08/TM-FDEM model/
 tags:
 
 ---
-[Download paper here](https://doi.org/10.1016/j.jrmge.2023.12.005)
+<div style="display: flex; justify-content: space-between;">
+    <img src="Fig. 6. Heating up simulation of granular particles.jpg" alt="Image 1" style="width: 49%;" />
+    <img src="Fig. 6. Heating up simulation of granular particles.jpg" alt="Image 2" style="width: 49%;" />
+</div>
+
 <img src="/images/Fig. 6. Heating up simulation of granular particles.jpg" width="30%" height="auto">
+
+[Download paper here](https://doi.org/10.1016/j.jrmge.2023.12.005)
+
 <div style="display: flex; align-items: center;">
     <img src="/images/TM-FDEM空心圆柱开裂.gif" alt="描述文字" width="30%"  style="margin-right: 10px;">
     <p>

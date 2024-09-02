@@ -10,9 +10,7 @@ tags:
     <img src="/images/Fig. 6. Heating up simulation of granular particles.jpg" alt="Image 1" style="width: 49%;" />
     <img src="/images/Fig. 6. Heating up simulation of granular particles.jpg" alt="Image 2" style="width: 49%;" />
 </div>
-
 <img src="/images/Fig. 6. Heating up simulation of granular particles.jpg" width="30%" height="auto">
-
 <div style="display: flex; align-items: center;">
     <img src="/images/TM-FDEM空心圆柱开裂.gif" alt="描述文字" width="30%"  style="margin-right: 10px;">
     <p>

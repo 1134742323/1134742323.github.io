@@ -6,7 +6,6 @@ tags:
 
 ---
 [Download paper here](https://doi.org/10.1016/j.jrmge.2023.12.005)
-
 <div style="display: flex; justify-content: space-between;">
     <img src="/images/Fig. 6. Heating up simulation of granular particles.jpg" alt="Image 1" style="width: 49%;" />
     <img src="/images/Fig. 6. Heating up simulation of granular particles.jpg" alt="Image 2" style="width: 49%;" />

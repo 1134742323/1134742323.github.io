@@ -6,8 +6,8 @@ tags:
 
 ---
 <div style="display: flex; justify-content: space-between;">
-    <img src="Fig. 6. Heating up simulation of granular particles.jpg" alt="Image 1" style="width: 49%;" />
-    <img src="Fig. 6. Heating up simulation of granular particles.jpg" alt="Image 2" style="width: 49%;" />
+    <img src="/images/Fig. 6. Heating up simulation of granular particles.jpg" alt="Image 1" style="width: 49%;" />
+    <img src="/images/Fig. 6. Heating up simulation of granular particles.jpg" alt="Image 2" style="width: 49%;" />
 </div>
 
 <img src="/images/Fig. 6. Heating up simulation of granular particles.jpg" width="30%" height="auto">

@@ -10,7 +10,9 @@ tags:
     <img src="/images/Fig. 6. Heating up simulation of granular particles.jpg" alt="Image 1" style="width: 49%;" />
     <img src="/images/Fig. 17. Comparison of ceramic crack pattern.jpg" alt="Image 2" style="width: 49%;" />
 </div>
-<img src="/images/Fig. 16. Thermal shocking crack propagation process.jpg" width="90%" height="auto">
+<div style="text-align: center">
+    <img src="/images/Fig. 16. Thermal shocking crack propagation process.jpg" alt="Your Image" style="display: inline;">
+</div>
 <div style="display: flex; align-items: center;">
     <img src="/images/TM-FDEM空心圆柱开裂.gif" alt="描述文字" width="30%"  style="margin-right: 10px;">
     <p>

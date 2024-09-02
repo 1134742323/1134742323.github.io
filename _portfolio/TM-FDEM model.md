@@ -6,7 +6,7 @@ tags:
 
 ---
 [Download paper here](https://doi.org/10.1016/j.jrmge.2023.12.005)
-<img src="/images/Fig. 6. Heating up simulation of granular particles.jpg" width="90%" height="auto">
+<img src="/images/Fig. 6. Heating up simulation of granular particles.jpg" width="30%" height="auto">
 <div style="display: flex; align-items: center;">
     <img src="/images/TM-FDEM空心圆柱开裂.gif" alt="描述文字" width="30%"  style="margin-right: 10px;">
     <p>
